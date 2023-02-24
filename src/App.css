@@ -1,0 +1,19 @@
+input {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: brown;
+   width: 150px;
+   line-height: 60px;
+   text-align: right;
+   border-radius: 8px;
+   outline: none;
+   border: 1px dotted darkorange;
+   outline: none;
+   font-size: 1.5rem;   
+}
+
+label {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: block;
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
